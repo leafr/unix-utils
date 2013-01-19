@@ -1,0 +1,9 @@
+{
+  "name": "core-utils",
+  "description": "work in progress",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "*",
+    "fake-fs": "*"
+  }
+}
